@@ -1,0 +1,51 @@
+#home {
+    background-color: paleturquoise;
+    font-size: 15px;
+    color: black;
+    font-family: georgia, serif;
+}
+
+#page {
+    background-color: palevioletred;
+}
+
+#heading {
+    text-align: center;
+    background-color: palegoldenrod;
+    font-family: georgia, serif;
+    font-size: 50px;
+}
+
+.picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: auto;
+}
+
+.description {
+    margin-left: 150px;
+    margin-right: 150px;
+    font-size: 15px;
+    font-family: georgia, serif;
+    color: black;
+}
+
+.list {
+    text-align: center;
+    margin-right: 300px;
+    font-family: georgia, serif;
+    font-size: 20px;
+    color: palegreen;
+    text-decoration: underline;
+}
+
+li {
+    margin-left: 150px;
+    width: 500px;
+    margin-right: 300px;
+    font-family: georgia, serif;
+    font-size: 15px;
+    color: black;
+}
